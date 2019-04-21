@@ -1,0 +1,1 @@
+Combine this app with the script from https://github.com/remijouannet/trojandroid_mixapk
